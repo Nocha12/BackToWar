@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour {
 	public bool attacking = false; 
 	public bool dashing = false; 
 
-	public Vector3 rotationOffset = new Vector3(-110, 0, -1.52f);
+	public Vector3 rotationOffset = new Vector3 (0, 0, 0);
 
 	void Start () {
 		avatar = GetComponent<Animator>();
@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour {
 
 			if (h != 0 && v != 0) {
 				transform.rotation = Quaternion.LookRotation (new Vector3 (h, 0, v));
-				transform.eulerAngles = transform.eulerAngles + rotationOffset;
+				transform.Rotate(new Vector3(0, -90, 0));
 			}
 		}
 	}

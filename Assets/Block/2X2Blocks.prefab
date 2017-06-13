@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4570139481972214}
   - component: {fileID: 33794808133026402}
   - component: {fileID: 23329386936223194}
-  - component: {fileID: 61214316278591178}
+  - component: {fileID: 65687939824983928}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -39,7 +39,7 @@ GameObject:
   - component: {fileID: 4395942129272654}
   - component: {fileID: 33161549600035010}
   - component: {fileID: 23135203731806378}
-  - component: {fileID: 61964752058097830}
+  - component: {fileID: 65179842683828466}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -72,7 +72,7 @@ GameObject:
   - component: {fileID: 4964118027360936}
   - component: {fileID: 33400701349747726}
   - component: {fileID: 23324028945303546}
-  - component: {fileID: 61296780466615658}
+  - component: {fileID: 65655161478789570}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -90,7 +90,7 @@ GameObject:
   - component: {fileID: 4920089742105506}
   - component: {fileID: 33742715513152062}
   - component: {fileID: 23070057549963274}
-  - component: {fileID: 61289664140583082}
+  - component: {fileID: 65155181824858562}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -180,7 +180,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b9a2926d85237ce419f1f29932b6610a, type: 2}
+  - {fileID: 2100000, guid: 7f5229a4568c78c459589691c6817ab1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -212,7 +212,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b9a2926d85237ce419f1f29932b6610a, type: 2}
+  - {fileID: 2100000, guid: 7f5229a4568c78c459589691c6817ab1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -244,7 +244,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b9a2926d85237ce419f1f29932b6610a, type: 2}
+  - {fileID: 2100000, guid: 7f5229a4568c78c459589691c6817ab1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -276,7 +276,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: b9a2926d85237ce419f1f29932b6610a, type: 2}
+  - {fileID: 2100000, guid: 7f5229a4568c78c459589691c6817ab1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -323,103 +323,51 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1273651131153636}
   m_Mesh: {fileID: 4300000, guid: 9933792a65571c34a8bb4d795e372db7, type: 3}
---- !u!61 &61214316278591178
-BoxCollider2D:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1273651131153636}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -2.4999998, y: 2.4999998}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 4.9999995, y: 4.9999995}
-  m_EdgeRadius: 0
---- !u!61 &61289664140583082
-BoxCollider2D:
+--- !u!65 &65155181824858562
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1980519926180054}
-  m_Enabled: 1
-  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -2.4999998, y: 2.4999998}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 4.9999995, y: 4.9999995}
-  m_EdgeRadius: 0
---- !u!61 &61296780466615658
-BoxCollider2D:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1753142309733290}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -2.4999998, y: 2.4999998}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4.9999995, y: 4.9999995}
-  m_EdgeRadius: 0
---- !u!61 &61964752058097830
-BoxCollider2D:
+  m_Size: {x: 4.9999995, y: 4.9999995, z: 5}
+  m_Center: {x: -2.4999998, y: 2.4999998, z: -2.5}
+--- !u!65 &65179842683828466
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1421349540146590}
-  m_Enabled: 1
-  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -2.4999998, y: 2.4999998}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4.9999995, y: 4.9999995}
-  m_EdgeRadius: 0
+  m_Size: {x: 4.9999995, y: 4.9999995, z: 5}
+  m_Center: {x: -2.4999998, y: 2.4999998, z: -2.5}
+--- !u!65 &65655161478789570
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1753142309733290}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.9999995, y: 4.9999995, z: 5}
+  m_Center: {x: -2.4999998, y: 2.4999998, z: -2.5}
+--- !u!65 &65687939824983928
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1273651131153636}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.9999995, y: 4.9999995, z: 5}
+  m_Center: {x: -2.4999998, y: 2.4999998, z: -2.5}

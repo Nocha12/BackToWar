@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4507146265768532}
   - component: {fileID: 33413359867146814}
   - component: {fileID: 23509087084525322}
-  - component: {fileID: 61002287010083814}
+  - component: {fileID: 65357874411863026}
   m_Layer: 0
   m_Name: RockBlock
   m_TagString: Untagged
@@ -55,7 +55,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: c40749f138de591469a79ab78d0f8cc8, type: 2}
+  - {fileID: 2100000, guid: 7f5229a4568c78c459589691c6817ab1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81,28 +81,15 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1503950484610514}
   m_Mesh: {fileID: 4300000, guid: 9933792a65571c34a8bb4d795e372db7, type: 3}
---- !u!61 &61002287010083814
-BoxCollider2D:
+--- !u!65 &65357874411863026
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1503950484610514}
-  m_Enabled: 1
-  m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -2.4999998, y: 2.4999998}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
+  m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 4.9999995, y: 4.9999995}
-  m_EdgeRadius: 0
+  m_Size: {x: 4.9999995, y: 4.9999995, z: 5}
+  m_Center: {x: -2.4999998, y: 2.4999998, z: -2.5}
