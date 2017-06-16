@@ -85,6 +85,5 @@ public class TouchPad : MonoBehaviour {
 
 		if (player)
 			player.OnStickChanged (normDiff);
-		print (normDiff);
 	}
 }
