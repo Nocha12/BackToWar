@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: af87572a330351e4d8ad938700b59b87
+timeCreated: 1497612313
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001 Footsteps
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger0Nub
+    100014: Bip001 L Foot
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L Thigh
+    100022: Bip001 L Toe0
+    100024: Bip001 L Toe01
+    100026: Bip001 L Toe02
+    100028: Bip001 L Toe0Nub
+    100030: Bip001 L UpperArm
+    100032: Bip001 Neck
+    100034: Bip001 Pelvis
+    100036: Bip001 R Calf
+    100038: Bip001 R Clavicle
+    100040: Bip001 R Finger0
+    100042: Bip001 R Finger0Nub
+    100044: Bip001 R Foot
+    100046: Bip001 R Forearm
+    100048: Bip001 R Hand
+    100050: Bip001 R Thigh
+    100052: Bip001 R Toe0
+    100054: Bip001 R Toe01
+    100056: Bip001 R Toe02
+    100058: Bip001 R Toe0Nub
+    100060: Bip001 R UpperArm
+    100062: Bip001 Spine
+    100064: Box001
+    100066: Box002
+    100068: Box003
+    100070: Box004
+    100072: Box006
+    100074: Box007
+    100076: Box008
+    100078: Box009
+    100080: Box010
+    100082: Box011
+    100084: Box012
+    100086: Box013
+    100088: Box014
+    100090: Box015
+    100092: Box016
+    100094: Box017
+    100096: Box018
+    100098: Box019
+    100100: Box020
+    100102: Box021
+    100104: Box022
+    100106: Box023
+    100108: Box024
+    100110: Box025
+    100112: Box026
+    100114: Box027
+    100116: Cylinder003
+    100118: Cylinder004
+    100120: Cylinder006
+    100122: Cylinder010
+    100124: Cylinder011
+    100126: Cylinder012
+    100128: Cylinder013
+    100130: Cylinder014
+    100132: Cylinder015
+    100134: Cylinder016
+    100136: Cylinder017
+    100138: Group002
+    100140: Group003
+    100142: Group004
+    100144: //RootNode
+    100146: Sphere003
+    100148: Sphere004
+    100150: Sphere005
+    100152: Sphere006
+    100154: Sphere007
+    100156: Sphere008
+    100158: Sphere009
+    100160: Sphere010
+    100162: Sphere011
+    400000: Bip001 Footsteps
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger0Nub
+    400014: Bip001 L Foot
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L Thigh
+    400022: Bip001 L Toe0
+    400024: Bip001 L Toe01
+    400026: Bip001 L Toe02
+    400028: Bip001 L Toe0Nub
+    400030: Bip001 L UpperArm
+    400032: Bip001 Neck
+    400034: Bip001 Pelvis
+    400036: Bip001 R Calf
+    400038: Bip001 R Clavicle
+    400040: Bip001 R Finger0
+    400042: Bip001 R Finger0Nub
+    400044: Bip001 R Foot
+    400046: Bip001 R Forearm
+    400048: Bip001 R Hand
+    400050: Bip001 R Thigh
+    400052: Bip001 R Toe0
+    400054: Bip001 R Toe01
+    400056: Bip001 R Toe02
+    400058: Bip001 R Toe0Nub
+    400060: Bip001 R UpperArm
+    400062: Bip001 Spine
+    400064: Box001
+    400066: Box002
+    400068: Box003
+    400070: Box004
+    400072: Box006
+    400074: Box007
+    400076: Box008
+    400078: Box009
+    400080: Box010
+    400082: Box011
+    400084: Box012
+    400086: Box013
+    400088: Box014
+    400090: Box015
+    400092: Box016
+    400094: Box017
+    400096: Box018
+    400098: Box019
+    400100: Box020
+    400102: Box021
+    400104: Box022
+    400106: Box023
+    400108: Box024
+    400110: Box025
+    400112: Box026
+    400114: Box027
+    400116: Cylinder003
+    400118: Cylinder004
+    400120: Cylinder006
+    400122: Cylinder010
+    400124: Cylinder011
+    400126: Cylinder012
+    400128: Cylinder013
+    400130: Cylinder014
+    400132: Cylinder015
+    400134: Cylinder016
+    400136: Cylinder017
+    400138: Group002
+    400140: Group003
+    400142: Group004
+    400144: //RootNode
+    400146: Sphere003
+    400148: Sphere004
+    400150: Sphere005
+    400152: Sphere006
+    400154: Sphere007
+    400156: Sphere008
+    400158: Sphere009
+    400160: Sphere010
+    400162: Sphere011
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box006
+    2300010: Box007
+    2300012: Box008
+    2300014: Box009
+    2300016: Box010
+    2300018: Box011
+    2300020: Box012
+    2300022: Box013
+    2300024: Box014
+    2300026: Box015
+    2300028: Box016
+    2300030: Box017
+    2300032: Box018
+    2300034: Box019
+    2300036: Box020
+    2300038: Box021
+    2300040: Box022
+    2300042: Box023
+    2300044: Box024
+    2300046: Box025
+    2300048: Box026
+    2300050: Box027
+    2300052: Cylinder003
+    2300054: Cylinder004
+    2300056: Cylinder006
+    2300058: Cylinder010
+    2300060: Cylinder011
+    2300062: Cylinder012
+    2300064: Cylinder013
+    2300066: Cylinder014
+    2300068: Cylinder015
+    2300070: Cylinder016
+    2300072: Cylinder017
+    2300074: Sphere003
+    2300076: Sphere004
+    2300078: Sphere005
+    2300080: Sphere006
+    2300082: Sphere007
+    2300084: Sphere008
+    2300086: Sphere009
+    2300088: Sphere010
+    2300090: Sphere011
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box006
+    3300010: Box007
+    3300012: Box008
+    3300014: Box009
+    3300016: Box010
+    3300018: Box011
+    3300020: Box012
+    3300022: Box013
+    3300024: Box014
+    3300026: Box015
+    3300028: Box016
+    3300030: Box017
+    3300032: Box018
+    3300034: Box019
+    3300036: Box020
+    3300038: Box021
+    3300040: Box022
+    3300042: Box023
+    3300044: Box024
+    3300046: Box025
+    3300048: Box026
+    3300050: Box027
+    3300052: Cylinder003
+    3300054: Cylinder004
+    3300056: Cylinder006
+    3300058: Cylinder010
+    3300060: Cylinder011
+    3300062: Cylinder012
+    3300064: Cylinder013
+    3300066: Cylinder014
+    3300068: Cylinder015
+    3300070: Cylinder016
+    3300072: Cylinder017
+    3300074: Sphere003
+    3300076: Sphere004
+    3300078: Sphere005
+    3300080: Sphere006
+    3300082: Sphere007
+    3300084: Sphere008
+    3300086: Sphere009
+    3300088: Sphere010
+    3300090: Sphere011
+    4300000: Box004
+    4300002: Cylinder011
+    4300004: Box022
+    4300006: Cylinder012
+    4300008: Box027
+    4300010: Box001
+    4300012: Sphere007
+    4300014: Sphere005
+    4300016: Cylinder010
+    4300018: Sphere006
+    4300020: Box014
+    4300022: Box008
+    4300024: Box007
+    4300026: Box010
+    4300028: Box011
+    4300030: Box012
+    4300032: Box013
+    4300034: Box009
+    4300036: Sphere010
+    4300038: Cylinder004
+    4300040: Box025
+    4300042: Sphere003
+    4300044: Cylinder003
+    4300046: Box002
+    4300048: Sphere009
+    4300050: Sphere011
+    4300052: Box006
+    4300054: Cylinder017
+    4300056: Cylinder006
+    4300058: Sphere004
+    4300060: Box003
+    4300062: Sphere008
+    4300064: Box015
+    4300066: Box026
+    4300068: Box019
+    4300070: Box024
+    4300072: Cylinder016
+    4300074: Cylinder015
+    4300076: Box016
+    4300078: Box017
+    4300080: Box018
+    4300082: Box020
+    4300084: Box021
+    4300086: Cylinder014
+    4300088: Box023
+    4300090: Cylinder013
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001 Footsteps
+        weight: 1
+      - path: Bip001 Pelvis
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0/Bip001 L Toe01
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0/Bip001 L Toe01/Bip001 L Toe02
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001
+          L Toe0/Bip001 L Toe01/Bip001 L Toe02/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Box004
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Cylinder011
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Bip001 HeadNub
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box001
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box007
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box008
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box009
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box010
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box011
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box012
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box013
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box014
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Box027
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Cylinder010
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Sphere005
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Sphere006
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 Head/Sphere007
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Bip001 L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Bip001 L Hand/Sphere010
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Box025
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001
+          L Forearm/Cylinder004
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Group002
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Group002/Cylinder003
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Group002/Sphere003
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Box002
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 L Clavicle/Box002/Sphere009
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Bip001 R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Bip001 R Hand/Box006
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Bip001 R Hand/Sphere011
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001
+          R Forearm/Cylinder017
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Group003
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Group003/Cylinder006
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Group003/Sphere004
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Box003
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 Neck/Bip001 R Clavicle/Box003/Sphere008
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0/Bip001 R Toe01
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0/Bip001 R Toe01/Bip001 R Toe02
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001
+          R Toe0/Bip001 R Toe01/Bip001 R Toe02/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Box022
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Cylinder012
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Box015
+        weight: 1
+      - path: Bip001 Pelvis/Bip001 Spine/Box015/Box026
+        weight: 1
+      - path: Bip001 Pelvis/Group004
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box016
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box017
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box018
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box019
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box020
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box021
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box023
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Box024
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Cylinder013
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Cylinder014
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Cylinder015
+        weight: 1
+      - path: Bip001 Pelvis/Group004/Cylinder016
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
