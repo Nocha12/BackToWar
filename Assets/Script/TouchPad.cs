@@ -9,7 +9,7 @@ public class TouchPad : MonoBehaviour {
 	private bool buttonPressed = false;
 	public static int touchId = -1;
 
-	public float dragRadius = 60;
+	public float dragRadius = 65;
 	public PlayerMovement player;
 
 	void Start () {

@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Enemy
+  - SpawnPos0
+  - Wall0
+  - Area1
+  - Wall1
+  - SpawnPos1
   layers:
   - Default
   - TransparentFX
